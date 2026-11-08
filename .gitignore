@@ -1,0 +1,7 @@
+2019-Oct.csv
+project2.db
+project2.db.wal
+*.wal
+project2_light.ipynb
+.ipynb_checkpoints/
+__pycache__/

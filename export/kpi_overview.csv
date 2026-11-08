@@ -1,0 +1,2 @@
+﻿period_start,period_end,total_events,rows_after_cleaning,all_users,viewers,buyers_all,viewer_buyers,buyers_without_view,buyers_share_of_all_users_pct,conv_view_to_purchase_pct,session_conv_pct,purchase_events,approx_orders,revenue,revenue_per_buyer,avg_check_approx,repeat_buyers,repeat_buyers_pct,cart_threshold_per_100_views
+2019-10-01,2019-10-31,42448764,42418542,3022290,3022130,347118,346950,62,11.49,11.48,6.79,742773,629560,229933212.63,662.41,365.23,90604,26.1,2.0
